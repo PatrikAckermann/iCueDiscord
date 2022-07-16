@@ -8,7 +8,7 @@ Lights up your Corsair RGB hardware on a discord notification.
  - Light effect when receiving a message.
  
 **Planned for Beta V0.2:**
- - Light effect when a user joins or leaves your channel.
+ - Light effect when a user joins or leaves your channel. Requires a discord bot
 
 **Planned for Beta V0.3:**
  - Support for more light effects and customization options.
